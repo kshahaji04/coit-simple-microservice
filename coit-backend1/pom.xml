@@ -45,13 +45,13 @@
 	</build>
 	<distributionManagement>
 		<repository>
-			<id>coit-backend1-release</id>
-			<name>coit-backend1-release</name>
+			<id>coit-cackend1-release</id>
+			<name>coit-cackend1-release</name>
 			<url>http://34.228.63.41:8081/repository/coit-cackend1-release/</url>
 		</repository>
 		<snapshotRepository>
-			<id>coit-backend1-snapshot</id>
-			<name>coit-backend1-snapshot</name>
+			<id>coit-cackend1-snapshot</id>
+			<name>coit-cackend1-snapshot</name>
 			<url>http://34.228.63.41:8081/repository/coit-cackend1-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
